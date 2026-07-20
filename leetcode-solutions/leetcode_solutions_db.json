@@ -17,5 +17,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0001-two-sum/Solution.cpp",
     "date": "14/7/2026"
+  },
+  {
+    "questionId": "2",
+    "problemTitle": "Add Two Numbers",
+    "problemSlug": "add-two-numbers",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Math",
+      "Recursion"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "runtimePercentile": null,
+    "memoryPercentile": null,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Linked-List/0002-add-two-numbers/Solution.cpp",
+    "date": "20/7/2026"
   }
 ]

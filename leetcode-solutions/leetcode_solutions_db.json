@@ -37,5 +37,26 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0002-add-two-numbers/Solution.cpp",
     "date": "20/7/2026"
+  },
+  {
+    "questionId": "240",
+    "problemTitle": "Search a 2D Matrix II",
+    "problemSlug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "runtimePercentile": null,
+    "memoryPercentile": null,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp",
+    "date": "23/7/2026"
   }
 ]

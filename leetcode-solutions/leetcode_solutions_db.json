@@ -58,5 +58,26 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp",
     "date": "23/7/2026"
+  },
+  {
+    "questionId": "67",
+    "problemTitle": "Add Binary",
+    "problemSlug": "add-binary",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "String",
+      "Bit Manipulation",
+      "Simulation"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "7.7 MB",
+    "runtimePercentile": null,
+    "memoryPercentile": null,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Math/0067-add-binary/Solution.cpp",
+    "date": "25/7/2026"
   }
 ]

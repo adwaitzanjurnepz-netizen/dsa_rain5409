@@ -79,5 +79,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Math/0067-add-binary/Solution.cpp",
     "date": "25/7/2026"
+  },
+  {
+    "questionId": "69",
+    "problemTitle": "Sqrt(x)",
+    "problemSlug": "sqrtx",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 50.74050000000002,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Math/0069-sqrtx/Solution.cpp",
+    "date": "25/7/2026"
   }
 ]

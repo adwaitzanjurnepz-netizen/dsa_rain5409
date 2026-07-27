@@ -4,8 +4,8 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-6-blue.svg?style=for-the-badge&logo=leetcode)](#)
-[![Easy](https://img.shields.io/badge/Easy-4-10b981.svg?style=for-the-badge)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-7-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Easy](https://img.shields.io/badge/Easy-5-10b981.svg?style=for-the-badge)](#)
 [![Medium](https://img.shields.io/badge/Medium-2-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
@@ -18,6 +18,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Math/0067-add-binary/Solution.cpp) | 25/7/2026 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | `Math`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Math/0069-sqrtx/Solution.cpp) | 25/7/2026 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `Math`, `Dynamic Programming`, `Memoization` | - | [cpp](leetcode-solutions/Topics/Math/0070-climbing-stairs/Solution.cpp) | 25/7/2026 |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | `Array`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0118-pascals-triangle/Solution.cpp) | 27/7/2026 |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` | - | [cpp](leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp) | 23/7/2026 |
 
 ---

@@ -175,5 +175,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0121-best-time-to-buy-and-sell-stock/Solution.cpp",
     "date": "27/7/2026"
+  },
+  {
+    "questionId": "136",
+    "problemTitle": "Single Number",
+    "problemSlug": "single-number",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Bit Manipulation"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "20.6 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 59.21410000000003,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0136-single-number/Solution.cpp",
+    "date": "27/7/2026"
   }
 ]

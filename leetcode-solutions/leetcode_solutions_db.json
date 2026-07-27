@@ -156,5 +156,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0119-pascals-triangle-ii/Solution.cpp",
     "date": "27/7/2026"
+  },
+  {
+    "questionId": "121",
+    "problemTitle": "Best Time to Buy and Sell Stock",
+    "problemSlug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "97.4 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 25.680900000000015,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0121-best-time-to-buy-and-sell-stock/Solution.cpp",
+    "date": "27/7/2026"
   }
 ]

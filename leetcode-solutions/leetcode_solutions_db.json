@@ -137,5 +137,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0118-pascals-triangle/Solution.cpp",
     "date": "27/7/2026"
+  },
+  {
+    "questionId": "119",
+    "problemTitle": "Pascal's Triangle II",
+    "problemSlug": "pascals-triangle-ii",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Dynamic Programming"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "1 ms",
+    "memory": "9.2 MB",
+    "runtimePercentile": 12.040899999999993,
+    "memoryPercentile": 14.871299999999978,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0119-pascals-triangle-ii/Solution.cpp",
+    "date": "27/7/2026"
   }
 ]

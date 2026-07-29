@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-10-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-11-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-8-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-2-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-3-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -15,6 +15,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 |---|---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Array`, `Hash Table` | - | [cpp](leetcode-solutions/Topics/Array/0001-two-sum/Solution.cpp) | 14/7/2026 |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `Linked List`, `Math`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Linked-List/0002-add-two-numbers/Solution.cpp) | 20/7/2026 |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0053-maximum-subarray/Solution.cpp) | 29/7/2026 |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Math/0067-add-binary/Solution.cpp) | 25/7/2026 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | `Math`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Math/0069-sqrtx/Solution.cpp) | 25/7/2026 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `Math`, `Dynamic Programming`, `Memoization` | - | [cpp](leetcode-solutions/Topics/Math/0070-climbing-stairs/Solution.cpp) | 25/7/2026 |

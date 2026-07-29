@@ -234,5 +234,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/2149-rearrange-array-elements-by-sign/Solution.cpp",
     "date": "29/7/2026"
+  },
+  {
+    "questionId": "31",
+    "problemTitle": "Next Permutation",
+    "problemSlug": "next-permutation",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "15.8 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 10.615800000000007,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0031-next-permutation/Solution.cpp",
+    "date": "29/7/2026"
   }
 ]

@@ -194,5 +194,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0136-single-number/Solution.cpp",
     "date": "27/7/2026"
+  },
+  {
+    "questionId": "53",
+    "problemTitle": "Maximum Subarray",
+    "problemSlug": "maximum-subarray",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "71.6 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 81.64930000000001,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0053-maximum-subarray/Solution.cpp",
+    "date": "29/7/2026"
   }
 ]

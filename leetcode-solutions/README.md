@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-14-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-15-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-8-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-6-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-7-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -20,6 +20,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Math/0067-add-binary/Solution.cpp) | 25/7/2026 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | `Math`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Math/0069-sqrtx/Solution.cpp) | 25/7/2026 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | `Math`, `Dynamic Programming`, `Memoization` | - | [cpp](leetcode-solutions/Topics/Math/0070-climbing-stairs/Solution.cpp) | 25/7/2026 |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | `Array`, `Two Pointers`, `Sorting` | - | [cpp](leetcode-solutions/Topics/Array/0075-sort-colors/Solution.cpp) | 1/8/2026 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | `Array`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0118-pascals-triangle/Solution.cpp) | 27/7/2026 |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | 🟢 Easy | `Array`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0119-pascals-triangle-ii/Solution.cpp) | 27/7/2026 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | `Array`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0121-best-time-to-buy-and-sell-stock/Solution.cpp) | 27/7/2026 |

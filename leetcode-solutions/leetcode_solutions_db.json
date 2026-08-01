@@ -315,5 +315,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0169-majority-element/Solution.cpp",
     "date": "1/8/2026"
+  },
+  {
+    "questionId": "73",
+    "problemTitle": "Set Matrix Zeroes",
+    "problemSlug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "27 ms",
+    "memory": "21.8 MB",
+    "runtimePercentile": 12.96370000000001,
+    "memoryPercentile": 10.13669999999999,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0073-set-matrix-zeroes/Solution.cpp",
+    "date": "1/8/2026"
   }
 ]

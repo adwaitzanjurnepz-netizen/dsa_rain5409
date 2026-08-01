@@ -9,6 +9,6 @@
 
 ## Performance Details
 
-- **Runtime:** 0 ms (Percentile: 100)
-- **Memory:** 28.2 MB (Percentile: 39.25370000000004)
+- **Runtime:** 0 ms (Percentile: N/A)
+- **Memory:** 8.2 MB (Percentile: N/A)
 

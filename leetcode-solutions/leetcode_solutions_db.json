@@ -293,5 +293,27 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0075-sort-colors/Solution.cpp",
     "date": "1/8/2026"
+  },
+  {
+    "questionId": "169",
+    "problemTitle": "Majority Element",
+    "problemSlug": "majority-element",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Divide and Conquer",
+      "Sorting",
+      "Counting"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "8.2 MB",
+    "runtimePercentile": null,
+    "memoryPercentile": null,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0169-majority-element/Solution.cpp",
+    "date": "1/8/2026"
   }
 ]

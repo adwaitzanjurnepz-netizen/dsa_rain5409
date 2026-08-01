@@ -253,5 +253,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0031-next-permutation/Solution.cpp",
     "date": "29/7/2026"
+  },
+  {
+    "questionId": "128",
+    "problemTitle": "Longest Consecutive Sequence",
+    "problemSlug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Union-Find"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "11 ms",
+    "memory": "60.3 MB",
+    "runtimePercentile": 95.8559,
+    "memoryPercentile": 84.9987,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0128-longest-consecutive-sequence/Solution.cpp",
+    "date": "1/8/2026"
   }
 ]

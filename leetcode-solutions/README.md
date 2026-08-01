@@ -13,7 +13,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 | # | Title | Difficulty | Tags / Topics | Notes | Solution | Date |
 |---|---|---|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Array`, `Hash Table` | - | [cpp](leetcode-solutions/Topics/Array/0001-two-sum/Solution.cpp) | 14/7/2026 |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Array`, `Hash Table` | - | [cpp](leetcode-solutions/Topics/Array/0001-two-sum/Solution.cpp) | 1/8/2026 |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `Linked List`, `Math`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Linked-List/0002-add-two-numbers/Solution.cpp) | 20/7/2026 |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | `Array`, `Two Pointers` | - | [cpp](leetcode-solutions/Topics/Array/0031-next-permutation/Solution.cpp) | 29/7/2026 |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0053-maximum-subarray/Solution.cpp) | 29/7/2026 |

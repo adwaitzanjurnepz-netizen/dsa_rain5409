@@ -335,5 +335,26 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0001-two-sum/Solution.cpp",
     "date": "1/8/2026"
+  },
+  {
+    "questionId": "229",
+    "problemTitle": "Majority Element II",
+    "problemSlug": "majority-element-ii",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Counting"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "9 ms",
+    "memory": "26.4 MB",
+    "runtimePercentile": 23.645599999999995,
+    "memoryPercentile": 28.553300000000007,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0229-majority-element-ii/Solution.cpp",
+    "date": "2/8/2026"
   }
 ]

@@ -356,5 +356,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0229-majority-element-ii/Solution.cpp",
     "date": "2/8/2026"
+  },
+  {
+    "questionId": "15",
+    "problemTitle": "3Sum",
+    "problemSlug": "3sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Two Pointers",
+      "Sorting"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "50 ms",
+    "memory": "29.2 MB",
+    "runtimePercentile": 46.369299999999996,
+    "memoryPercentile": 47.36240000000004,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0015-3sum/Solution.cpp",
+    "date": "2/8/2026"
   }
 ]

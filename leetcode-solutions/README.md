@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-18-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-19-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-9-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-9-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-10-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -15,6 +15,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 |---|---|---|---|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | `Array`, `Hash Table` | - | [cpp](leetcode-solutions/Topics/Array/0001-two-sum/Solution.cpp) | 1/8/2026 |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | `Linked List`, `Math`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Linked-List/0002-add-two-numbers/Solution.cpp) | 20/7/2026 |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Array`, `Two Pointers`, `Sorting` | - | [cpp](leetcode-solutions/Topics/Array/0015-3sum/Solution.cpp) | 2/8/2026 |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | `Array`, `Two Pointers` | - | [cpp](leetcode-solutions/Topics/Array/0031-next-permutation/Solution.cpp) | 29/7/2026 |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0053-maximum-subarray/Solution.cpp) | 29/7/2026 |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Math/0067-add-binary/Solution.cpp) | 25/7/2026 |

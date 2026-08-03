@@ -395,5 +395,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0704-binary-search/Solution.cpp",
     "date": "3/8/2026"
+  },
+  {
+    "questionId": "35",
+    "problemTitle": "Search Insert Position",
+    "problemSlug": "search-insert-position",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "13.6 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 78.70849999999999,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0035-search-insert-position/Solution.cpp",
+    "date": "3/8/2026"
   }
 ]

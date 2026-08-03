@@ -4,8 +4,8 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-19-blue.svg?style=for-the-badge&logo=leetcode)](#)
-[![Easy](https://img.shields.io/badge/Easy-9-10b981.svg?style=for-the-badge)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-20-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Easy](https://img.shields.io/badge/Easy-10-10b981.svg?style=for-the-badge)](#)
 [![Medium](https://img.shields.io/badge/Medium-10-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
@@ -31,6 +31,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0169-majority-element/Solution.cpp) | 1/8/2026 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | `Array`, `Hash Table`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0229-majority-element-ii/Solution.cpp) | 2/8/2026 |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` | - | [cpp](leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp) | 23/7/2026 |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0704-binary-search/Solution.cpp) | 3/8/2026 |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | `Array`, `Two Pointers`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Array/2149-rearrange-array-elements-by-sign/Solution.cpp) | 29/7/2026 |
 
 ---

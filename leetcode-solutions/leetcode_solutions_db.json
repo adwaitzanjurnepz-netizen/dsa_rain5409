@@ -376,5 +376,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0015-3sum/Solution.cpp",
     "date": "2/8/2026"
+  },
+  {
+    "questionId": "704",
+    "problemTitle": "Binary Search",
+    "problemSlug": "binary-search",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "31.3 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 47.15599999999999,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0704-binary-search/Solution.cpp",
+    "date": "3/8/2026"
   }
 ]

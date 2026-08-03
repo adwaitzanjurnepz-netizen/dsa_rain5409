@@ -414,5 +414,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0035-search-insert-position/Solution.cpp",
     "date": "3/8/2026"
+  },
+  {
+    "questionId": "34",
+    "problemTitle": "Find First and Last Position of Element in Sorted Array",
+    "problemSlug": "find-first-and-last-position-of-element-in-sorted-array",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "17.5 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 90.0926,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0034-find-first-and-last-position-of-element-in-sorted-array/Solution.cpp",
+    "date": "3/8/2026"
   }
 ]

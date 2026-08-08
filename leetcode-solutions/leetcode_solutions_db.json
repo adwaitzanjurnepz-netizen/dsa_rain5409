@@ -452,5 +452,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0033-search-in-rotated-sorted-array/Solution.cpp",
     "date": "6/8/2026"
+  },
+  {
+    "questionId": "81",
+    "problemTitle": "Search in Rotated Sorted Array II",
+    "problemSlug": "search-in-rotated-sorted-array-ii",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "17.9 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 99.1883,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0081-search-in-rotated-sorted-array-ii/Solution.cpp",
+    "date": "8/8/2026"
   }
 ]

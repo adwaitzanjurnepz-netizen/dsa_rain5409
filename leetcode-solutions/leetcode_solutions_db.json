@@ -471,5 +471,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0081-search-in-rotated-sorted-array-ii/Solution.cpp",
     "date": "8/8/2026"
+  },
+  {
+    "questionId": "875",
+    "problemTitle": "Koko Eating Bananas",
+    "problemSlug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "15 ms",
+    "memory": "22.9 MB",
+    "runtimePercentile": 17.432300000000016,
+    "memoryPercentile": 54.56089999999999,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0875-koko-eating-bananas/Solution.cpp",
+    "date": "8/8/2026"
   }
 ]

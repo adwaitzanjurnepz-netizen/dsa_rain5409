@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-26-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-27-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-11-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-15-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-16-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -37,6 +37,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` | - | [cpp](leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp) | 23/7/2026 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0704-binary-search/Solution.cpp) | 3/8/2026 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0875-koko-eating-bananas/Solution.cpp) | 8/8/2026 |
+| 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1283-find-the-smallest-divisor-given-a-threshold/Solution.cpp) | 11/8/2026 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1482-minimum-number-of-days-to-make-m-bouquets/Solution.cpp) | 11/8/2026 |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | `Array`, `Two Pointers`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Array/2149-rearrange-array-elements-by-sign/Solution.cpp) | 29/7/2026 |
 

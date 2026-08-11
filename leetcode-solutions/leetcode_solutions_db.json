@@ -490,5 +490,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0875-koko-eating-bananas/Solution.cpp",
     "date": "8/8/2026"
+  },
+  {
+    "questionId": "1482",
+    "problemTitle": "Minimum Number of Days to Make m Bouquets",
+    "problemSlug": "minimum-number-of-days-to-make-m-bouquets",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "20 ms",
+    "memory": "70.5 MB",
+    "runtimePercentile": 68.7617,
+    "memoryPercentile": 80.63449999999997,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/1482-minimum-number-of-days-to-make-m-bouquets/Solution.cpp",
+    "date": "11/8/2026"
   }
 ]

@@ -509,5 +509,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/1482-minimum-number-of-days-to-make-m-bouquets/Solution.cpp",
     "date": "11/8/2026"
+  },
+  {
+    "questionId": "1283",
+    "problemTitle": "Find the Smallest Divisor Given a Threshold",
+    "problemSlug": "find-the-smallest-divisor-given-a-threshold",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "3 ms",
+    "memory": "26.2 MB",
+    "runtimePercentile": 92.07050000000001,
+    "memoryPercentile": 15.439900000000009,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/1283-find-the-smallest-divisor-given-a-threshold/Solution.cpp",
+    "date": "11/8/2026"
   }
 ]

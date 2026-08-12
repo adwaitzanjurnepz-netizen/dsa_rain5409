@@ -528,5 +528,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/1283-find-the-smallest-divisor-given-a-threshold/Solution.cpp",
     "date": "11/8/2026"
+  },
+  {
+    "questionId": "1011",
+    "problemTitle": "Capacity To Ship Packages Within D Days",
+    "problemSlug": "capacity-to-ship-packages-within-d-days",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "6 ms",
+    "memory": "35.1 MB",
+    "runtimePercentile": 93.18400000000001,
+    "memoryPercentile": 20.332400000000014,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/1011-capacity-to-ship-packages-within-d-days/Solution.cpp",
+    "date": "12/8/2026"
   }
 ]

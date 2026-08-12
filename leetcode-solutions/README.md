@@ -4,8 +4,8 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-28-blue.svg?style=for-the-badge&logo=leetcode)](#)
-[![Easy](https://img.shields.io/badge/Easy-11-10b981.svg?style=for-the-badge)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-29-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Easy](https://img.shields.io/badge/Easy-12-10b981.svg?style=for-the-badge)](#)
 [![Medium](https://img.shields.io/badge/Medium-17-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
@@ -40,6 +40,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1011-capacity-to-ship-packages-within-d-days/Solution.cpp) | 12/8/2026 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1283-find-the-smallest-divisor-given-a-threshold/Solution.cpp) | 11/8/2026 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1482-minimum-number-of-days-to-make-m-bouquets/Solution.cpp) | 11/8/2026 |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1539-kth-missing-positive-number/Solution.cpp) | 12/8/2026 |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | `Array`, `Two Pointers`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Array/2149-rearrange-array-elements-by-sign/Solution.cpp) | 29/7/2026 |
 
 ---

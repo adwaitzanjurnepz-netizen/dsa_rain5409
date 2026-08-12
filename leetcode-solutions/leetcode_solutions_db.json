@@ -547,5 +547,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/1011-capacity-to-ship-packages-within-d-days/Solution.cpp",
     "date": "12/8/2026"
+  },
+  {
+    "questionId": "1539",
+    "problemTitle": "Kth Missing Positive Number",
+    "problemSlug": "kth-missing-positive-number",
+    "difficulty": "Easy",
+    "tags": [
+      "Array",
+      "Binary Search"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "13.3 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 29.72549999999999,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/1539-kth-missing-positive-number/Solution.cpp",
+    "date": "12/8/2026"
   }
 ]

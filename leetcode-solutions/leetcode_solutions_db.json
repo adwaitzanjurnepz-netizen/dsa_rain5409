@@ -566,5 +566,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/1539-kth-missing-positive-number/Solution.cpp",
     "date": "12/8/2026"
+  },
+  {
+    "questionId": "74",
+    "problemTitle": "Search a 2D Matrix",
+    "problemSlug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "13.5 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 7.428899999999992,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0074-search-a-2d-matrix/Solution.cpp",
+    "date": "14/8/2026"
   }
 ]

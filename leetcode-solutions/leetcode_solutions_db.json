@@ -586,5 +586,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Array/0074-search-a-2d-matrix/Solution.cpp",
     "date": "14/8/2026"
+  },
+  {
+    "questionId": "1021",
+    "problemTitle": "Remove Outermost Parentheses",
+    "problemSlug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "tags": [
+      "String",
+      "Stack",
+      "Bracket Sequences"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 55.24900000000001,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/String/1021-remove-outermost-parentheses/Solution.cpp",
+    "date": "16/8/2026"
   }
 ]

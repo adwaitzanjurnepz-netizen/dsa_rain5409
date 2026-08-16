@@ -625,5 +625,25 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Two-Pointers/0151-reverse-words-in-a-string/Solution.cpp",
     "date": "16/8/2026"
+  },
+  {
+    "questionId": "1903",
+    "problemTitle": "Largest Odd Number in String",
+    "problemSlug": "largest-odd-number-in-string",
+    "difficulty": "Easy",
+    "tags": [
+      "Math",
+      "String",
+      "Greedy"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "17.7 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 85.4715,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Math/1903-largest-odd-number-in-string/Solution.cpp",
+    "date": "16/8/2026"
   }
 ]

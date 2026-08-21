@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-33-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-34-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-14-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-19-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-20-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -37,6 +37,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0169-majority-element/Solution.cpp) | 1/8/2026 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | `Array`, `Hash Table`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0229-majority-element-ii/Solution.cpp) | 2/8/2026 |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` | - | [cpp](leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp) | 23/7/2026 |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | `Hash Table`, `String`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` | - | [cpp](leetcode-solutions/Topics/Hash-Table/0451-sort-characters-by-frequency/Solution.cpp) | 21/8/2026 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0704-binary-search/Solution.cpp) | 3/8/2026 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0875-koko-eating-bananas/Solution.cpp) | 8/8/2026 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1011-capacity-to-ship-packages-within-d-days/Solution.cpp) | 12/8/2026 |

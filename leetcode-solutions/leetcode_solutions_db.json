@@ -645,5 +645,28 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Math/1903-largest-odd-number-in-string/Solution.cpp",
     "date": "16/8/2026"
+  },
+  {
+    "questionId": "451",
+    "problemTitle": "Sort Characters By Frequency",
+    "problemSlug": "sort-characters-by-frequency",
+    "difficulty": "Medium",
+    "tags": [
+      "Hash Table",
+      "String",
+      "Sorting",
+      "Heap (Priority Queue)",
+      "Bucket Sort",
+      "Counting"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "runtimePercentile": null,
+    "memoryPercentile": null,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Hash-Table/0451-sort-characters-by-frequency/Solution.cpp",
+    "date": "21/8/2026"
   }
 ]

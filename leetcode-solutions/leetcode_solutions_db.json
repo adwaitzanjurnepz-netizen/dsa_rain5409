@@ -743,5 +743,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0876-middle-of-the-linked-list/Solution.cpp",
     "date": "22/8/2026"
+  },
+  {
+    "questionId": "206",
+    "problemTitle": "Reverse Linked List",
+    "problemSlug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Recursion"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "13.5 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 16.033100000000005,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Linked-List/0206-reverse-linked-list/Solution.cpp",
+    "date": "22/8/2026"
   }
 ]

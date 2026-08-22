@@ -706,5 +706,23 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/String/0008-string-to-integer-atoi/Solution.cpp",
     "date": "22/8/2026"
+  },
+  {
+    "questionId": "237",
+    "problemTitle": "Delete Node in a Linked List",
+    "problemSlug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "6 ms",
+    "memory": "12.4 MB",
+    "runtimePercentile": 62.28080000000001,
+    "memoryPercentile": 23.2397,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Linked-List/0237-delete-node-in-a-linked-list/Solution.cpp",
+    "date": "22/8/2026"
   }
 ]

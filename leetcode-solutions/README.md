@@ -4,8 +4,8 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-37-blue.svg?style=for-the-badge&logo=leetcode)](#)
-[![Easy](https://img.shields.io/badge/Easy-15-10b981.svg?style=for-the-badge)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-38-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Easy](https://img.shields.io/badge/Easy-16-10b981.svg?style=for-the-badge)](#)
 [![Medium](https://img.shields.io/badge/Medium-22-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
@@ -42,6 +42,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | `Hash Table`, `String`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` | - | [cpp](leetcode-solutions/Topics/Hash-Table/0451-sort-characters-by-frequency/Solution.cpp) | 21/8/2026 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0704-binary-search/Solution.cpp) | 3/8/2026 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0875-koko-eating-bananas/Solution.cpp) | 8/8/2026 |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | `Linked List`, `Two Pointers` | - | [cpp](leetcode-solutions/Topics/Linked-List/0876-middle-of-the-linked-list/Solution.cpp) | 22/8/2026 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1011-capacity-to-ship-packages-within-d-days/Solution.cpp) | 12/8/2026 |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | `String`, `Stack`, `Bracket Sequences` | - | [cpp](leetcode-solutions/Topics/String/1021-remove-outermost-parentheses/Solution.cpp) | 16/8/2026 |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1283-find-the-smallest-divisor-given-a-threshold/Solution.cpp) | 11/8/2026 |

@@ -724,5 +724,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0237-delete-node-in-a-linked-list/Solution.cpp",
     "date": "22/8/2026"
+  },
+  {
+    "questionId": "876",
+    "problemTitle": "Middle of the Linked List",
+    "problemSlug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "10 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 26.93149999999998,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Linked-List/0876-middle-of-the-linked-list/Solution.cpp",
+    "date": "22/8/2026"
   }
 ]

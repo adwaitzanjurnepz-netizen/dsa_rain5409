@@ -4,8 +4,8 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-38-blue.svg?style=for-the-badge&logo=leetcode)](#)
-[![Easy](https://img.shields.io/badge/Easy-16-10b981.svg?style=for-the-badge)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-39-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Easy](https://img.shields.io/badge/Easy-17-10b981.svg?style=for-the-badge)](#)
 [![Medium](https://img.shields.io/badge/Medium-22-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
@@ -36,6 +36,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | `Array`, `Bit Manipulation` | - | [cpp](leetcode-solutions/Topics/Array/0136-single-number/Solution.cpp) | 27/7/2026 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | `Two Pointers`, `String` | - | [cpp](leetcode-solutions/Topics/Two-Pointers/0151-reverse-words-in-a-string/Solution.cpp) | 16/8/2026 |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0169-majority-element/Solution.cpp) | 1/8/2026 |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | `Linked List`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Linked-List/0206-reverse-linked-list/Solution.cpp) | 22/8/2026 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | `Array`, `Hash Table`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0229-majority-element-ii/Solution.cpp) | 2/8/2026 |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `Linked List` | - | [cpp](leetcode-solutions/Topics/Linked-List/0237-delete-node-in-a-linked-list/Solution.cpp) | 22/8/2026 |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` | - | [cpp](leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp) | 23/7/2026 |

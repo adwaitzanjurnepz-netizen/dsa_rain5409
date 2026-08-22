@@ -688,5 +688,23 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/String/1614-maximum-nesting-depth-of-the-parentheses/Solution.cpp",
     "date": "21/8/2026"
+  },
+  {
+    "questionId": "8",
+    "problemTitle": "String to Integer (atoi)",
+    "problemSlug": "string-to-integer-atoi",
+    "difficulty": "Medium",
+    "tags": [
+      "String"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "9.1 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 54.659699999999994,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/String/0008-string-to-integer-atoi/Solution.cpp",
+    "date": "22/8/2026"
   }
 ]

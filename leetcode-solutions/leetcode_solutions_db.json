@@ -762,5 +762,26 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0206-reverse-linked-list/Solution.cpp",
     "date": "22/8/2026"
+  },
+  {
+    "questionId": "141",
+    "problemTitle": "Linked List Cycle",
+    "problemSlug": "linked-list-cycle",
+    "difficulty": "Easy",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "8 ms",
+    "memory": "11.9 MB",
+    "runtimePercentile": 81.79380000000002,
+    "memoryPercentile": 53.9641,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Hash-Table/0141-linked-list-cycle/Solution.cpp",
+    "date": "23/8/2026"
   }
 ]

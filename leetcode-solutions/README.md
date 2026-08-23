@@ -4,8 +4,8 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-41-blue.svg?style=for-the-badge&logo=leetcode)](#)
-[![Easy](https://img.shields.io/badge/Easy-18-10b981.svg?style=for-the-badge)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-42-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Easy](https://img.shields.io/badge/Easy-19-10b981.svg?style=for-the-badge)](#)
 [![Medium](https://img.shields.io/badge/Medium-23-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
@@ -40,6 +40,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | `Array`, `Hash Table`, `Divide and Conquer`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0169-majority-element/Solution.cpp) | 1/8/2026 |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | `Linked List`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Linked-List/0206-reverse-linked-list/Solution.cpp) | 22/8/2026 |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | `Array`, `Hash Table`, `Sorting`, `Counting` | - | [cpp](leetcode-solutions/Topics/Array/0229-majority-element-ii/Solution.cpp) | 2/8/2026 |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | `Linked List`, `Two Pointers`, `Stack`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Linked-List/0234-palindrome-linked-list/Solution.cpp) | 23/8/2026 |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `Linked List` | - | [cpp](leetcode-solutions/Topics/Linked-List/0237-delete-node-in-a-linked-list/Solution.cpp) | 22/8/2026 |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` | - | [cpp](leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp) | 23/7/2026 |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | `Hash Table`, `String`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` | - | [cpp](leetcode-solutions/Topics/Hash-Table/0451-sort-characters-by-frequency/Solution.cpp) | 21/8/2026 |

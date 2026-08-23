@@ -783,5 +783,26 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Hash-Table/0141-linked-list-cycle/Solution.cpp",
     "date": "23/8/2026"
+  },
+  {
+    "questionId": "142",
+    "problemTitle": "Linked List Cycle II",
+    "problemSlug": "linked-list-cycle-ii",
+    "difficulty": "Medium",
+    "tags": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers",
+      "Floyd's Cycle Finding Algorithm"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "10 ms",
+    "memory": "11.5 MB",
+    "runtimePercentile": 44.625299999999996,
+    "memoryPercentile": 23.6989,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Hash-Table/0142-linked-list-cycle-ii/Solution.cpp",
+    "date": "23/8/2026"
   }
 ]

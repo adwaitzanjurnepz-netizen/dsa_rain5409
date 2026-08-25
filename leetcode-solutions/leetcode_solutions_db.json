@@ -862,5 +862,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0019-remove-nth-node-from-end-of-list/Solution.cpp",
     "date": "25/8/2026"
+  },
+  {
+    "questionId": "2095",
+    "problemTitle": "Delete the Middle Node of a Linked List",
+    "problemSlug": "delete-the-middle-node-of-a-linked-list",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "3 ms",
+    "memory": "312.2 MB",
+    "runtimePercentile": 45.26950000000001,
+    "memoryPercentile": 17.46780000000001,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Linked-List/2095-delete-the-middle-node-of-a-linked-list/Solution.cpp",
+    "date": "25/8/2026"
   }
 ]

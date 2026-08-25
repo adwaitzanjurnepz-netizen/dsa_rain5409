@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-44-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-45-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-19-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-25-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-26-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -56,6 +56,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/1539-kth-missing-positive-number/Solution.cpp) | 12/8/2026 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | `String`, `Stack`, `Bracket Sequences` | - | [cpp](leetcode-solutions/Topics/String/1614-maximum-nesting-depth-of-the-parentheses/Solution.cpp) | 21/8/2026 |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | `Math`, `String`, `Greedy` | - | [cpp](leetcode-solutions/Topics/Math/1903-largest-odd-number-in-string/Solution.cpp) | 16/8/2026 |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | `Linked List`, `Two Pointers` | - | [cpp](leetcode-solutions/Topics/Linked-List/2095-delete-the-middle-node-of-a-linked-list/Solution.cpp) | 25/8/2026 |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | `Array`, `Two Pointers`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Array/2149-rearrange-array-elements-by-sign/Solution.cpp) | 29/7/2026 |
 
 ---

@@ -9,6 +9,6 @@
 
 ## Performance Details
 
-- **Runtime:** 9 ms (Percentile: 86.535)
-- **Memory:** 58 MB (Percentile: 70.69270000000003)
+- **Runtime:** 54 ms (Percentile: 18.107400000000013)
+- **Memory:** 75.8 MB (Percentile: 20.213299999999983)
 

@@ -843,5 +843,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0328-odd-even-linked-list/Solution.cpp",
     "date": "25/8/2026"
+  },
+  {
+    "questionId": "19",
+    "problemTitle": "Remove Nth Node From End of List",
+    "problemSlug": "remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List",
+      "Two Pointers"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "14.9 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 59.689299999999996,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Linked-List/0019-remove-nth-node-from-end-of-list/Solution.cpp",
+    "date": "25/8/2026"
   }
 ]

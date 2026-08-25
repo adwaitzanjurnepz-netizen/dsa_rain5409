@@ -825,5 +825,23 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0234-palindrome-linked-list/Solution.cpp",
     "date": "23/8/2026"
+  },
+  {
+    "questionId": "328",
+    "problemTitle": "Odd Even Linked List",
+    "problemSlug": "odd-even-linked-list",
+    "difficulty": "Medium",
+    "tags": [
+      "Linked List"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "16 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 7.9041000000000174,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Linked-List/0328-odd-even-linked-list/Solution.cpp",
+    "date": "25/8/2026"
   }
 ]

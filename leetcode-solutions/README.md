@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-42-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-43-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-19-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-23-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-24-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -43,6 +43,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | 🟢 Easy | `Linked List`, `Two Pointers`, `Stack`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Linked-List/0234-palindrome-linked-list/Solution.cpp) | 23/8/2026 |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | `Linked List` | - | [cpp](leetcode-solutions/Topics/Linked-List/0237-delete-node-in-a-linked-list/Solution.cpp) | 22/8/2026 |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | `Array`, `Binary Search`, `Divide and Conquer`, `Matrix` | - | [cpp](leetcode-solutions/Topics/Array/0240-search-a-2d-matrix-ii/Solution.cpp) | 23/7/2026 |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | `Linked List` | - | [cpp](leetcode-solutions/Topics/Linked-List/0328-odd-even-linked-list/Solution.cpp) | 25/8/2026 |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | `Hash Table`, `String`, `Sorting`, `Heap (Priority Queue)`, `Bucket Sort`, `Counting` | - | [cpp](leetcode-solutions/Topics/Hash-Table/0451-sort-characters-by-frequency/Solution.cpp) | 21/8/2026 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0704-binary-search/Solution.cpp) | 3/8/2026 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0875-koko-eating-bananas/Solution.cpp) | 8/8/2026 |

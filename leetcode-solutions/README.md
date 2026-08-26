@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-46-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-47-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-19-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-27-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-28-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -22,6 +22,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0033-search-in-rotated-sorted-array/Solution.cpp) | 6/8/2026 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0034-find-first-and-last-position-of-element-in-sorted-array/Solution.cpp) | 3/8/2026 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0035-search-insert-position/Solution.cpp) | 3/8/2026 |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | `Math`, `Recursion` | - | [cpp](leetcode-solutions/Topics/Math/0050-powx-n/Solution.cpp) | 26/8/2026 |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | `Array`, `Divide and Conquer`, `Dynamic Programming` | - | [cpp](leetcode-solutions/Topics/Array/0053-maximum-subarray/Solution.cpp) | 29/7/2026 |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | `Math`, `String`, `Bit Manipulation`, `Simulation` | - | [cpp](leetcode-solutions/Topics/Math/0067-add-binary/Solution.cpp) | 25/7/2026 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | `Math`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Math/0069-sqrtx/Solution.cpp) | 25/7/2026 |

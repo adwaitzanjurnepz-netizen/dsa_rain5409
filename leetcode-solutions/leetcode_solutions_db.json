@@ -903,5 +903,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Linked-List/0148-sort-list/Solution.cpp",
     "date": "25/8/2026"
+  },
+  {
+    "questionId": "50",
+    "problemTitle": "Pow(x, n)",
+    "problemSlug": "powx-n",
+    "difficulty": "Medium",
+    "tags": [
+      "Math",
+      "Recursion"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "8.7 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 44.5662,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Math/0050-powx-n/Solution.cpp",
+    "date": "26/8/2026"
   }
 ]

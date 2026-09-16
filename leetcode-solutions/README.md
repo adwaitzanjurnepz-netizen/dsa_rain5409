@@ -4,9 +4,9 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 
 ### 📊 Progress Tracker
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-47-blue.svg?style=for-the-badge&logo=leetcode)](#)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-48-blue.svg?style=for-the-badge&logo=leetcode)](#)
 [![Easy](https://img.shields.io/badge/Easy-19-10b981.svg?style=for-the-badge)](#)
-[![Medium](https://img.shields.io/badge/Medium-28-f59e0b.svg?style=for-the-badge)](#)
+[![Medium](https://img.shields.io/badge/Medium-29-f59e0b.svg?style=for-the-badge)](#)
 [![Hard](https://img.shields.io/badge/Hard-0-ef4444.svg?style=for-the-badge)](#)
 
 ### 📚 Solved Questions Repository
@@ -18,6 +18,7 @@ Welcome to my DSA journey dashboard. This repository is automatically updated by
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | 🟡 Medium | `String` | - | [cpp](leetcode-solutions/Topics/String/0008-string-to-integer-atoi/Solution.cpp) | 22/8/2026 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | `Array`, `Two Pointers`, `Sorting` | - | [cpp](leetcode-solutions/Topics/Array/0015-3sum/Solution.cpp) | 2/8/2026 |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | `Linked List`, `Two Pointers` | - | [cpp](leetcode-solutions/Topics/Linked-List/0019-remove-nth-node-from-end-of-list/Solution.cpp) | 25/8/2026 |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | `String`, `Dynamic Programming`, `Backtracking`, `Bracket Sequences` | - | [cpp](leetcode-solutions/Topics/String/0022-generate-parentheses/Solution.cpp) | 16/9/2026 |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | `Array`, `Two Pointers` | - | [cpp](leetcode-solutions/Topics/Array/0031-next-permutation/Solution.cpp) | 29/7/2026 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0033-search-in-rotated-sorted-array/Solution.cpp) | 6/8/2026 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | `Array`, `Binary Search` | - | [cpp](leetcode-solutions/Topics/Array/0034-find-first-and-last-position-of-element-in-sorted-array/Solution.cpp) | 3/8/2026 |

@@ -943,5 +943,24 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/String/0022-generate-parentheses/Solution.cpp",
     "date": "16/9/2026"
+  },
+  {
+    "questionId": "39",
+    "problemTitle": "Combination Sum",
+    "problemSlug": "combination-sum",
+    "difficulty": "Medium",
+    "tags": [
+      "Array",
+      "Backtracking"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "0 ms",
+    "memory": "14.2 MB",
+    "runtimePercentile": 100,
+    "memoryPercentile": 57.71640000000001,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/Array/0039-combination-sum/Solution.cpp",
+    "date": "17/9/2026"
   }
 ]

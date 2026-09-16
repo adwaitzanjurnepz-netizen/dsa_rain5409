@@ -922,5 +922,26 @@
     "notes": "",
     "filePath": "/leetcode-solutions/Topics/Math/0050-powx-n/Solution.cpp",
     "date": "26/8/2026"
+  },
+  {
+    "questionId": "22",
+    "problemTitle": "Generate Parentheses",
+    "problemSlug": "generate-parentheses",
+    "difficulty": "Medium",
+    "tags": [
+      "String",
+      "Dynamic Programming",
+      "Backtracking",
+      "Bracket Sequences"
+    ],
+    "lang": "cpp",
+    "rating": 0,
+    "runtime": "4 ms",
+    "memory": "15.7 MB",
+    "runtimePercentile": 30.587099999999992,
+    "memoryPercentile": 49.36450000000007,
+    "notes": "",
+    "filePath": "/leetcode-solutions/Topics/String/0022-generate-parentheses/Solution.cpp",
+    "date": "16/9/2026"
   }
 ]
